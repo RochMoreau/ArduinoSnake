@@ -89,6 +89,7 @@ void setup()   {
   pinMode(buzzerPin, OUTPUT);
 }
 
+
 // ------------------------ UTILITIES -----------------------------
 
 void updateShiftRegister()
